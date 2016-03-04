@@ -1,4 +1,4 @@
-FROM java:openjdk-8-jre
+FROM java:openjdk-8u72-jdk
 MAINTAINER Ji Luo <weiqiyiji@gmail.com>
 
 ENV SBT_VERSION 0.13.11
